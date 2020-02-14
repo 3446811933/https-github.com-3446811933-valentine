@@ -10,7 +10,7 @@
   const CANVASID = 'canvas'
 
   //let texts = ['杨叶霖', 'LOOK UP', 'AT THE', 'STARRY SKY', 'ARE YOU', 'LOOKING AT', 'THE SAME', 'STARS', 'WITH ME ?', 'HAPPY', 'VALENTINE\'S', 'DAY', 'MISS YOU']
-  let texts = ['小王川老师', '抬头', '看看', '这', '漫天星空', '你是否', '和我一样', '正望着','它们 ?', '我在这','祝你','情人节快乐','情人节快乐','情人节快乐', 'MISS YOU']
+  let texts = ['小王川老师', '抬头', '看看', '这', '漫天星空', '你是否', '和我一样', '正望着','它们 ?', '今天','我祝你','情人节快乐','明年今朝','鸳俦凤侣','MISS YOU']
   let canvas,
     ctx,
     particles = [],

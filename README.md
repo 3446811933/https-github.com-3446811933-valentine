@@ -1,3 +1,3 @@
-**Demo**: http://valentine.nosalt.cn
+**Demo**: https://zerochenkun.github.io/valentine/index.html
 
-![valentine](http://qiniu.nosalt.cn/demo.jpeg)
+<!-- ![valentine](http://qiniu.nosalt.cn/demo.jpeg) -->
