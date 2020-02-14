@@ -1,0 +1,20 @@
+{
+  "name": "valentine-day",
+  "version": "1.0.0",
+  "description": "**Demo**: https://zerochenkun.github.io/valentine/index.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerochenkun/valentine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerochenkun/valentine/issues"
+  },
+  "homepage": "https://github.com/zerochenkun/valentine#readme"
+}
