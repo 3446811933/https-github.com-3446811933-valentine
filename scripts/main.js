@@ -135,7 +135,7 @@
         return
       }
       text = texts[textIndex]
-      console.log(textIndex)
+      console.log(e)
     }, false)
   }
 
